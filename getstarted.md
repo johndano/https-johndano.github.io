@@ -66,9 +66,21 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+### Overview of steps required
+
+There are only three simple steps, ....
+
+Here is a 40-second video ....
+
+<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
+
+<div class="gs-section-01" markdown="1">
+
 ### 1. Fork this project
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
+
+</div>
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
