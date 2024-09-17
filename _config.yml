@@ -16,7 +16,7 @@ author: Johnny Dan
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
   Table Demo: "table-demo"
